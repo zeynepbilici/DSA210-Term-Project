@@ -5,7 +5,7 @@ I am Zeynep Bilici, a CS student at Sabancı University, and this is my DSA210 t
 
 # _Contents_
 - [Motivation](#motivation)
-- [Project Goal](#projectgoal)
+- [Project Goal](#project-goal)
 
 ---
 
