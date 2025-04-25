@@ -7,6 +7,7 @@ I am Zeynep Bilici, a CS student at Sabancı University, and this is my DSA210 t
 - [Motivation](#motivation)
 - [Project Goal](#project-goal)
 - [Data and Data Analysis]((#data-and-data-analysis )
+- [Files]((#files )
 - [Google Collab Link]((#google-collab-link )
 - [Findings and Visualization]((#findings-and-visualization )
 
@@ -32,6 +33,11 @@ Each record includes the following fields:
 - **Course Load (min):** The total number of minutes spent in classes that day
 - **Exam Number (that week):** The number of exams during the corresponding week
 The data was collected over the course of one academic semester to investigate the relationship between academic stress (course load, exams) and coffee consumption habits.
+---
+
+# _Files_
+- ``Manually collected data
+- ``Python code for data cleaning, exploratory data analysis (EDA), and hypothesis testing.
 
 ---
 
