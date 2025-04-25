@@ -36,8 +36,8 @@ The data was collected over the course of one academic semester to investigate t
 ---
 
 # _Files_
-- ``Manually collected data
-- ``Python code for data cleaning, exploratory data analysis (EDA), and hypothesis testing.
+- `raw_data`: Manually collected data
+- `code.ipynb`: Python code for data cleaning, exploratory data analysis (EDA), and hypothesis testing.
 
 ---
 
