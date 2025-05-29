@@ -104,7 +104,7 @@ To complete the full data science pipeline, a **Linear Regression model** was tr
 
 A scatter plot was generated to visualize the actual vs. predicted coffee consumption values. The model provides insights into how academic variables impact caffeine intake and demonstrates how simple machine learning models can be applied to personal behavior data.
 
-![image alt]
+![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/machinelearning.png)
 
 ---
 
@@ -113,7 +113,7 @@ A scatter plot was generated to visualize the actual vs. predicted coffee consum
 1. **Time Series Plot: Daily Coffee Consumption**
    - Reveals fluctuations in daily caffeine consumption.
    - Peaks align with exam periods or stressful academic weeks.
-  ![image alt](
+  ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/timeseriesplot.png)
 
 2. **Bar Graph: Average Coffee Consumption – Exam Week vs. Normal Week**
    - Shows a clear increase in average coffee consumption during exam weeks.
@@ -123,14 +123,14 @@ A scatter plot was generated to visualize the actual vs. predicted coffee consum
 3. **Boxplot: Coffee Consumption by Course Load Category**
    - Displays distribution across `Low`, `Medium`, and `High` course load.
    - Median values are relatively similar, consistent with ANOVA results.
-  ![image alt]
+  ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/boxplot.png)
 
 4. **Correlation Matrix Heatmap**
    - Identifies relationships among key numeric variables.
    - Suggests mild positive correlation between course load and coffee intake.
-  ![image alt]
+  ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/heatmap.png)
 
 5. **Line Plot: Weekly Average Coffee Consumption**
    - Shows trends and seasonality across the semester.
    - Highlights exam-related peaks and periods of no coffee consumption.
-  ![image alt]
+  ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/lineplot.png)
