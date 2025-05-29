@@ -113,24 +113,68 @@ A scatter plot was generated to visualize the actual vs. predicted coffee consum
 1. **Time Series Plot: Daily Coffee Consumption**
    - Reveals fluctuations in daily caffeine consumption.
    - Peaks align with exam periods or stressful academic weeks.
+   - A rising trend is observed in the second half of the semester, with spikes around exam periods, suggesting stress-related increases.
   ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/timeseriesplot.png)
 
 2. **Bar Graph: Average Coffee Consumption – Exam Week vs. Normal Week**
    - Shows a clear increase in average coffee consumption during exam weeks.
+   - Confirms that average coffee consumption is higher during exam weeks, supporting the hypothesis that academic stress increases caffeine         intake.
    - Visual support for Hypothesis 1.
   ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/c6d4b5a7a0e95153c8aab75e5fbdba0916f30d9a/bargraph.png)
 
 3. **Boxplot: Coffee Consumption by Course Load Category**
    - Displays distribution across `Low`, `Medium`, and `High` course load.
-   - Median values are relatively similar, consistent with ANOVA results.
+   - Indicates similar medians across load categories and suggests that workload itself does not directly influence caffeine habits.
+   - Median values are consistent with ANOVA results.
   ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/boxplot.png)
 
 4. **Correlation Matrix Heatmap**
    - Identifies relationships among key numeric variables.
    - Suggests mild positive correlation between course load and coffee intake.
+   - Strong correlation exists between coffee number and caffeine amount, while correlations with academic variables (course load, exams) are        weak.
   ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/heatmap.png)
 
 5. **Line Plot: Weekly Average Coffee Consumption**
    - Shows trends and seasonality across the semester.
    - Highlights exam-related peaks and periods of no coffee consumption.
+   - Clear peaks during likely exam periods.
   ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/2e7df229c2dddb5b1a1754e0fc569bef03c2cfe1/lineplot.png)
+
+--- 
+
+# _Limitations_
+
+- **Self-Reported Data**: All data was manually entered and thus subject to human error, omission, or inconsistency.
+
+- **Single-Subject Sample**: The analysis is based on one individual's behavior, making it difficult to generalize findings.
+
+- **Limited Variables**: The dataset did not include contextual variables such as sleep quality, stress levels, food intake, or physical activity, which could also influence coffee consumption.
+
+- **Temporal Scope**: The data was collected only over one academic semester; seasonal and long-term trends are not captured.
+
+- **Model Simplicity**: Only a linear regression model was used; other modeling techniques may have performed better.
+
+---
+
+# _Future Work_
+
+- **Expand Dataset**: Involve more participants to enable comparisons and more generalized conclusions.
+
+- **Incorporate Additional Variables**: Include psychological or contextual factors (e.g., stress, sleep, emotional state) that could influence caffeine intake.
+
+- **Use Advanced Models**: Try classification or time-series forecasting models such as Random Forest, SVM, or LSTM.
+
+- **Daily Logging App**: Develop or use an app that automates the tracking of coffee and lifestyle metrics to improve data reliability.
+
+- **Cross-Dataset Analysis**: Compare coffee consumption patterns with academic performance, health logs, or study productivity.
+
+- **Time-Aware Models**: Utilize temporal models that consider lag or history, such as moving averages or autoregressive models.
+
+---
+
+# _CONCLUSION_
+
+This project has provided strong personal insight into how caffeine habits evolve in response to academic life. The analysis supports the conclusion that exam periods lead to increased coffee consumption, whereas general workload does not show a statistically significant impact. While the machine learning model was not successful in making accurate predictions, it emphasized the importance of broader contextual data in behavioral prediction. This experience has enhanced my skills in end-to-end data analysis, and it lays a strong foundation for exploring how health and productivity metrics can be tracked and analyzed using data science.
+
+
+
