@@ -113,12 +113,12 @@ A scatter plot was generated to visualize the actual vs. predicted coffee consum
 1. **Time Series Plot: Daily Coffee Consumption**
    - Reveals fluctuations in daily caffeine consumption.
    - Peaks align with exam periods or stressful academic weeks.
-  ![image alt]
+  ![image alt](
 
 2. **Bar Graph: Average Coffee Consumption – Exam Week vs. Normal Week**
    - Shows a clear increase in average coffee consumption during exam weeks.
    - Visual support for Hypothesis 1.
-  ![image alt]
+  ![image alt](https://github.com/zeynepbilici/DSA210-Term-Project/blob/c6d4b5a7a0e95153c8aab75e5fbdba0916f30d9a/bargraph.png)
 
 3. **Boxplot: Coffee Consumption by Course Load Category**
    - Displays distribution across `Low`, `Medium`, and `High` course load.
