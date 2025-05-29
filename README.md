@@ -14,6 +14,9 @@ I am Zeynep Bilici, a CS student at Sabancı University, and this is my DSA210 t
 - [Interpretation of Results](#interpretation-of-results)
 - [Machine Learning](#machine-learning)
 - [Findings and Visualization](#findings-and-visualization)
+- [Limitations](#limitations)
+- [Future Work](#future-work)
+- [Conclusion](#conclusion)
 
 ---
 
