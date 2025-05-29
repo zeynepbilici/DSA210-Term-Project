@@ -172,7 +172,7 @@ A scatter plot was generated to visualize the actual vs. predicted coffee consum
 
 ---
 
-# _CONCLUSION_
+# _Conclusion_
 
 This project has provided strong personal insight into how caffeine habits evolve in response to academic life. The analysis supports the conclusion that exam periods lead to increased coffee consumption, whereas general workload does not show a statistically significant impact. While the machine learning model was not successful in making accurate predictions, it emphasized the importance of broader contextual data in behavioral prediction. This experience has enhanced my skills in end-to-end data analysis, and it lays a strong foundation for exploring how health and productivity metrics can be tracked and analyzed using data science.
 
