@@ -177,7 +177,18 @@ A scatter plot was generated to visualize the actual vs. predicted coffee consum
 
 # _Conclusion_
 
-This project has provided strong personal insight into how caffeine habits evolve in response to academic life. The analysis supports the conclusion that exam periods lead to increased coffee consumption, whereas general workload does not show a statistically significant impact. While the machine learning model was not successful in making accurate predictions, it emphasized the importance of broader contextual data in behavioral prediction. This experience has enhanced my skills in end-to-end data analysis, and it lays a strong foundation for exploring how health and productivity metrics can be tracked and analyzed using data science.
+- This project has provided meaningful personal insights into how caffeine consumption patterns relate to academic demands.
+The analysis confirmed that coffee consumption tends to increase during exam weeks, likely as a coping mechanism for elevated stress.
+This behavioral response was supported through both statistical evidence and graphical trends, affirming the first hypothesis.
+
+- However, the data did not support a clear link between daily course load and caffeine intake.
+This suggests that not all forms of academic pressure trigger the same behavioral response, and daily workload alone may not be a strong enough factor to alter coffee habits.
+
+- The machine learning component—while useful in applying a predictive model—demonstrated poor performance, likely due to missing variables such as sleep, emotional state, or environmental context.
+This highlights the importance of considering holistic lifestyle factors in future studies of personal behavior.
+
+- Overall, this project was a complete walkthrough of the data science process: from manual data collection to cleaning, visualization, hypothesis testing, and machine learning.
+It demonstrated how individual-level data can be transformed into meaningful insights, and how personal patterns can be analyzed to promote healthier, more informed habits.
 
 
 
